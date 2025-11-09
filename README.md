@@ -7,6 +7,14 @@ It tests users’ coding knowledge with multiple-choice questions and displays t
 
 ---
 
+🚀 Live Demo
+
+👉 Click here to view the live project
+
+( https://roshinivankela.github.io/Age-Calculator/)
+
+---
+
 ## ✨ Features
 - Dynamic questions and options
 - Progress bar with quiz completion status
