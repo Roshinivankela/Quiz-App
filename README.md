@@ -11,7 +11,7 @@ It tests users’ coding knowledge with multiple-choice questions and displays t
 
 👉 Click here to view the live project
 
-( https://roshinivankela.github.io/Age-Calculator/)
+( https://roshinivankela.github.io/Quiz-App/)
 
 ---
 
@@ -25,6 +25,6 @@ It tests users’ coding knowledge with multiple-choice questions and displays t
 ---
 
 ## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript **
+- HTML5
+- CSS3
+- JavaScript 
